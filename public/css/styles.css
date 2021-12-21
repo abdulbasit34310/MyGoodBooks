@@ -1,0 +1,143 @@
+body{
+    color: white;
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+
+  }
+
+  /*Nav Styles  */
+#nav{
+    background-color:rgb(123, 23, 23);
+}
+
+.nav-link {
+    color: rgb(214, 182, 153);
+    font-weight: bold;
+}
+.navbar-toggler-icon{
+    color: rgb(214, 182, 153) ;
+}
+.nav-link:hover, .dropdown-item:hover{
+    background: rgb(94, 10, 10);
+    color: white;
+}
+
+
+.dropdown-menu{
+    background-color: rgb(123, 23, 23);
+    
+}
+.dropdown-item{
+    color: rgb(214, 182, 153);
+    font-weight: bold;
+}
+.dropdown-menu span{
+    color: rgb(214, 182, 153);
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Cambria, serif;
+}
+
+/* Footer Styles */
+
+footer{
+    background: rgb(117, 18, 18);
+    color: rgb(214, 182, 153) ;
+}
+footer ul{
+    list-style-type: none;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    color: rgb(214, 182, 153) ;
+    font-weight: bold;
+}
+/* Buttons styles */
+.btn-danger{
+            
+    background-color: rgb(123, 23, 23) !important;
+    border: none !important;
+   
+  }
+  .btn-danger:hover{
+      background-color:  rgb(94, 10, 10) !important;
+  }
+
+  hr{
+    background-color: darkgrey;
+  }
+  
+
+.error{
+    color: black;
+    font-style: italic;
+    font-weight: normal;
+  }
+
+
+
+  /* Forms Styles */
+
+  #formbody{
+    color: rgb(123, 23, 23) ; font-weight: bold ;
+    background-color: #000000; 
+    background-image: linear-gradient(147deg, #000000 0%, #2e2e2e 74%);
+}
+
+
+
+#mainform{
+    width: 450px; border: 2px solid rgb(123, 23, 23); margin: auto; margin-top: 5%;  background-color: rgb(253, 247, 247);
+ 
+}
+
+#formheader{
+    background-color: rgb(123, 23, 23); color: rgb(214, 182, 153); padding: 3%;  text-align: center;
+}
+
+input:focus,select:focus,textarea:focus{
+    border: 1px solid rgb(123, 23, 23)!important;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(218, 124, 124, 0.6) !important;
+  }
+  #heading{
+    text-align: center; padding: 2%; color: rgb(123, 23, 23) ; margin-bottom: 0%; margin-top: 20px;
+}
+
+.form-check-inline{
+    margin-left: 5px;
+  }
+
+  .mainforms{
+      padding: 10%;
+  }
+
+  .modal-content{
+    background-color: rgb(253, 247, 247);
+  }
+
+  
+  .input-group{
+    margin-bottom: 30px !important;
+  }
+  .input-with-icon {
+    border: 1px solid lightgray;
+    flex: 1;
+    padding: 7px;
+    border-radius: 4px;
+
+  }
+  
+  .input-group-text{
+    background-color: rgb(123, 23, 23);
+    color: white;
+  }
+
+  .spicon{
+    margin-left: 25px;
+    font-size: 20px;
+}
+.spicon:hover{
+    color: rgb(123, 23, 23);
+}

@@ -1,0 +1,21 @@
+    
+            a i{
+                color: rgb(123, 23, 23);
+                font-size: 35px;
+                margin: 5px 20px 20px 20px;
+              }
+  
+               a i:hover{
+                color: rgb(94, 10, 10);
+                transform: scale(1.15);
+                transition: 300ms;
+  
+              }
+              #forgotPassword, sign a{
+                color: rgb(123, 23, 23);
+                font-weight: bold;
+              }
+              #forgotPassword:hover, sign a:hover{
+                color: rgb(94, 10, 10);
+              }
+          

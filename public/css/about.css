@@ -1,0 +1,18 @@
+.caption h6{
+    font-weight: bold;
+}
+.thumbnail{
+    border: 1px solid rgb(214, 182, 153);
+    width: fit-content;
+    box-shadow: 3px 3px 1px rgb(117, 18, 18);
+
+}
+.img{
+    height: 200px;
+    width: 175px;
+}
+
+#pripolicy{
+    padding: 10px;
+    margin-top: 40px;
+}

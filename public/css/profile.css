@@ -1,0 +1,12 @@
+table{
+    color: white !important;
+}
+
+#profileimg{
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#profilecard{
+    padding-left: 40px;
+}
